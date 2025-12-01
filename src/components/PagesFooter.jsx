@@ -3,7 +3,7 @@ import React from 'react'
 const PagesFooter = () => {
     return (
         <div className='HomeFooterContainer'>
-            <p>© 2024 - 2025 Hikmetin İzinde. Built with ÖNDER. All rights reserved.</p>
+            <p>© 2025 - 2026 Hikmetin İzinde. Built with ÖNDER. All rights reserved.</p>
         </div>
       )
 }

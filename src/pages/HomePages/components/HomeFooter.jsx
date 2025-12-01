@@ -13,7 +13,7 @@ const HomeFooter = () => {
             <li>S.S.S</li>
             <li>iletişim</li>
         </ul>
-        <p>© 2022 - 2024 Hikmetin İzinde. Built with Önder. All rights reserved.</p>
+        <p>© 2025 - 2026 Hikmetin İzinde. Built with Önder. All rights reserved.</p>
     </div>
   )
 }

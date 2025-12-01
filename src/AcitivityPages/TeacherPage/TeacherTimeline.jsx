@@ -1041,7 +1041,7 @@ const SeminarTimeline = () => {
     <div className="w-full mt-16 md:mt-32 mb-16"> {/* Container padding ayarlandı */}
         <div className="text-center mb-8 md:mb-16 px-4">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#BDA473] mb-4 md:mb-6 bg-gradient-to-r from-[#BDA473] to-[#BDA473] bg-clip-text text-transparent">
-            2025 Seminer Programı
+            2026 Seminer Programı
           </h1>
           
           <div className="max-w-xs sm:max-w-sm md:max-w-xl mx-auto bg-gray-800/30 p-4 md:p-6 rounded-2xl backdrop-blur-sm">

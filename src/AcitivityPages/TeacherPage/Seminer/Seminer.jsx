@@ -386,7 +386,7 @@ const Seminer = () => {
           },
           {
             number: 3,
-            title: "Dr. Mehmet Doğan",
+            title: "D. Mehmet Doğan",
             speaker: "Mahmut Bıyıklı",
             startDate: "10 Ocak 2026 Pazartesi",
             endDate: "19.00",

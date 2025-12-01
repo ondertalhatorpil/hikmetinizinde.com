@@ -10,7 +10,7 @@ const Footer = () => {
         <li>S.S.S</li>
         <li>İletişim</li>
       </ul>
-      <p>© 2024 - 2025 Hikmetin İzinde. Built with ÖNDER. All rights reserved.</p>
+      <p>© 2025 - 2026 Hikmetin İzinde. Built with ÖNDER. All rights reserved.</p>
     </footer>
   );
 };

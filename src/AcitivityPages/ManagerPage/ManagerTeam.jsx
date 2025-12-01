@@ -34,7 +34,7 @@ const ManagerTeam = () => {
     },
     {
       name: "Yıldırım Alkış",
-      title: "(Yıldırım Alkış, Eğitimci-Yazar)",
+      title: "(Eğitimci-Yazar)",
       image: "images/Yıldırım Alkış Firefly Upscaler 4x scale.png",
       bio: `1963 Göksun doğumlu olan Yıldırım Alkış, Selçuk Üniversitesi İlahiyat Fakültesi mezunudur ve 1985 yılından 2018'deki emekliliğine kadar eğitim ve idarecilik alanında kapsamlı bir kariyere sahiptir. Kariyerine Ceyhan'da Din Kültürü ve Ahlak Bilgisi öğretmenliği ile başlayan Alkış, özellikle Kahramanmaraş, Türkoğlu ve Mersin Anadolu İmam Hatip Liselerinde uzun yıllar öğretmenlik ve okul müdürlüğü görevlerinde bulunmuştur. Eğitim yönetimi tecrübesini, 2012-2014 yıllarında yürüttüğü Kars İl Millî Eğitim Müdürlüğü göreviyle zirveye taşımıştır. Ayrıca, Ağrı İbrahim Çeçen Üniversitesi'nde Öğrenci İşleri Daire Başkanlığı yapmış ve Eğitim Fakültesinde psikoloji, edebiyat ve bilim tarihi dersleri okutmuştur. Çalışma hayatının son dönemlerinde ise Türkiye Diyanet Vakfı Yurtlar ve Sosyal Tesisler İktisadi İşletmesi Müdürlüğü yapmıştır. Alkış, mesleki çalışmalarının yanı sıra seminer ve cami sohbetlerine aralıksız devam etmiş, sivil toplum kuruluşlarında aktif roller üstlenmiş, İmam Hatip Lisesi yayın organlarında (Dost ve Gonca) yazılar yazmış ve aralarında "Hafız Ali Efendi ve Mücadelesi" ile "Öğretmenlik Sanatı" gibi yedi adet basılı esere sahiptir.`
     },

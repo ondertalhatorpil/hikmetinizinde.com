@@ -160,7 +160,8 @@ const SeminarTimeline = () => {
     <div className="w-full mt-16 md:mt-32 mb-16"> {/* Container padding ayarlandı */}
     <div className="text-center mb-8 md:mb-16 px-4">
       <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#BDA473] mb-4 md:mb-6 bg-gradient-to-r from-[#BDA473] to-[#BDA473] bg-clip-text text-transparent">
-        2026 Seminer Programı
+      <span className="block ">  2025 - 2026 </span>
+      <span className="block"> (2. Dönem) Seminer Programı</span>
       </h1>
           
           <div className="max-w-xs sm:max-w-sm md:max-w-xl mx-auto bg-gray-800/30 p-4 md:p-6 rounded-2xl backdrop-blur-sm">
@@ -268,13 +269,13 @@ const SeminarTimeline = () => {
                         </h3>
 
                         {/* Konuşmacı */}
-                        <div className="text-center text-[#BDA473] text-sm font-medium mt-2 border-b border-gray-700 pb-3 mb-2 line-clamp-1">
+                        <div className="text-center text-[#BDA473] text-md font-medium mt-2 border-b border-gray-700 line-clamp-2 border-b border-gray-700 pb-4 mb-2">
                             {seminer.speaker}
                         </div>
 
                         {/* Alt Bilgiler - mt-auto yerine mt-6 kullanıldı */}
                         <div className="mt-6">
-                            <div className="flex items-center justify-center gap-2 text-gray-400 text-sm md:text-base">
+                            <div className="flex items-center justify-center gap-2 text-gray-400 text-sm md:text-base line-clamp-2 border-b border-gray-700 pb-6 -mb-2">
                                 <Clock className="w-4 h-4" />
                                 <span>{seminer.time}</span>
                                 <span className="w-1 h-1 bg-gray-500 rounded-full mx-1"></span>

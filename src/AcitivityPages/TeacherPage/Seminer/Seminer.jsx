@@ -174,7 +174,7 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Hz. Peygamber’i Günümüze Taşımak?",
+            title: "Hz. Peygamber’i Günümüze Taşımak",
             speaker: "Dr. Mesut Çakır",
             startDate: "23 Aralık 2025 Salı",
             endDate: "21.00",
@@ -844,7 +844,7 @@ const Seminer = () => {
     },
     {
       seminerNo: 22,
-      title: "MEDENİYET MİRASIMIZI BUGÜNDEN DÜŞÜNMEK",
+      title: "Medeniyet Mirasımızı Bugünden Düşünmek",
       speakers: [
         {
           name: "Doç. Dr. Vahdettin Işık ",
@@ -946,14 +946,14 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Aile: Bir Takım Oyunudur. ",
+            title: "Aile Bir Takım Oyunudur",
             speaker: "Saliha Erdim",
             startDate: "5 Şubat 2026 Perşembe",
             endDate: "19.00",
           },
           {
             number: 2,
-            title: "Ailede çözüm odaklı iş birliği modeli.",
+            title: "Ailede çözüm odaklı iş birliği modeli",
             speaker: "Saliha Erdim",
             startDate: "12 Şubat 2026 Perşembe",
             endDate: "19.00",

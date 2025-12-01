@@ -174,7 +174,7 @@ const Seminer = () => {
         speakers: [
           {
             name: "Yıldırım Alkış",
-            institution: "Mersin AİHL Müdürü",
+            institution: "Eğitimci-Yazar",
             image: "images/Yıldırım Alkış Firefly Upscaler 4x scale.png",
           }
         ],

@@ -136,7 +136,7 @@ const seminerler = [
       sessions: [
         {
           number: 1,
-          title: "Hz. Peygamber’i Günümüze Taşımak?",
+          title: "Hz. Peygamber’i Günümüze Taşımak",
           speaker: "Dr. Mesut Çakır",
           startDate: "23 Aralık 2025 Salı",
           endDate: "21.00",
@@ -806,7 +806,7 @@ const seminerler = [
   },
   {
     seminerNo: 22,
-    title: "MEDENİYET MİRASIMIZI BUGÜNDEN DÜŞÜNMEK",
+    title: "Medeniyet Mirasımızı Bugünden Düşünmek",
     speakers: [
       {
         name: "Doç. Dr. Vahdettin Işık ",
@@ -907,14 +907,14 @@ const seminerler = [
       sessions: [
         {
           number: 1,
-          title: "Aile: Bir Takım Oyunudur. ",
+          title: "Aile Bir Takım Oyunudur",
           speaker: "Saliha Erdim",
           startDate: "5 Şubat 2026 Perşembe",
           endDate: "19.00",
         },
         {
           number: 2,
-          title: "Ailede çözüm odaklı iş birliği modeli.",
+          title: "Ailede çözüm odaklı iş birliği modeli",
           speaker: "Saliha Erdim",
           startDate: "12 Şubat 2026 Perşembe",
           endDate: "19.00",
@@ -1041,7 +1041,8 @@ const SeminarTimeline = () => {
     <div className="w-full mt-16 md:mt-32 mb-16"> {/* Container padding ayarlandı */}
         <div className="text-center mb-8 md:mb-16 px-4">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#BDA473] mb-4 md:mb-6 bg-gradient-to-r from-[#BDA473] to-[#BDA473] bg-clip-text text-transparent">
-            2026 Seminer Programı
+            <span className="block ">  2025 - 2026 </span>
+             <span className="block"> (5. Dönem) Seminer Programı</span>
           </h1>
           
           <div className="max-w-xs sm:max-w-sm md:max-w-xl mx-auto bg-gray-800/30 p-4 md:p-6 rounded-2xl backdrop-blur-sm">
@@ -1131,19 +1132,19 @@ const SeminarTimeline = () => {
                         </div>
 
                         {/* İçerik */}
-                        <h3 className="text-white font-semibold text-base md:text-lg mt-4 text-center group-hover:text-[#BDA473] transition-colors line-clamp-3 min-h-[4.5rem]">
-                          {session.sessionTitle}
+                        <h3 className="text-white font-semibold text-base text-lg font-weight: 900; mt-4 text-center group-hover:text-[#BDA473] transition-colors line-clamp-3 min-h-[4.5rem]">
+                          {session.seminarTitle}
                         </h3>
 
-                        <div className="text-center text-[#BDA473] text-xs md:text-sm mt-2 font-medium line-clamp-2 border-b border-gray-700 pb-2 mb-2">
-                          {session.seminarTitle}
+                        <div className="text-center text-[#BDA473] text-md text-md mt-2 font-medium group-hover:text-[#fff]  line-clamp-2 border-b border-gray-700 pb-6 mb-2">
+                          {session.sessionTitle}
                         </div>
 
                         <div className="mt-auto">
                             <div className="text-center text-gray-400 text-sm line-clamp-1">
                               {session.speakerName}
                             </div>
-                            <div className="flex items-center justify-center gap-2 text-gray-400 mt-2 text-sm md:text-base">
+                            <div className="flex items-center justify-center gap-2 text-gray-400 mt-2 text-sm md:text-base line-clamp-2 border-b border-gray-700 pb-6 -mb-2">
                               <Clock className="w-4 h-4" />
                               <span>{session.timeRaw}</span>
                             </div>

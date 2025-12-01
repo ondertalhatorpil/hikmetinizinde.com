@@ -12,7 +12,7 @@ import Button2 from '../assets//images/Yönetici Akademisi_png-01.png'
 import YLogo from '../assets//images/Yönetici Logo.png'
 import ÖLogo from '../assets//images/Öğretmen Logo.png'
 
-import İşOrtaklarımız from '../assets//images/İş Ortaklarımız.png'
+import İşOrtaklarımız from '../assets//images/İş Ortaklarımız2.png'
 import HeroHeader from './HeroHeader'
 
 const Hero = () => {
@@ -39,7 +39,7 @@ const Hero = () => {
                         </Link>
                     </div>
                 </div>
-                <div className='hero-ortaklarımız'>
+                <div className='hero-ortaklarımız '>
                     <img src={İşOrtaklarımız} alt='ÖNDER EKİBİ' />
                 </div>
             </div>

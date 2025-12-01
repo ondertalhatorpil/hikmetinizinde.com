@@ -29,7 +29,7 @@ const HomeAbout = () => {
                         <span className='about-subtitle'>Gelenekten Geleceğe</span>
                         <h1>HAKKIMIZDA</h1>
                         <div className='about-content'>
-                            <p>ÖNDER Öğretmen Akademisi tarafından bu yıl dördüncüsü düzenlenen "Hikmetin İzinde" programının kayıtları başlıyor.
+                            <p>ÖNDER Öğretmen Akademisi tarafından bu yıl beşincisi düzenlenen "Hikmetin İzinde" programının kayıtları başlıyor.
                             Türkiye ve yurt dışındaki imam hatip okullarında görev yapan öğretmenleri, alanlarında yetkin kıymetli hocalarımızla buluşturmayı hedefleyen bu seminerlerde, eğitimdeki bilgi ve becerilerinizi geliştirebilirsiniz.</p>
                             <p>Ayrıca, Yönetici Akademisi ile okul yöneticilerine özel eğitimler de sunulacak. Eğitimde liderlik, yönetim ve öğretim stratejileri üzerine değerli bilgiler edinmeniz için bu fırsatı kaçırmayın.</p>
                             <p>Seminerlere katılmak için kaydınızı zamanında yaptırmayı unutmayın!</p>

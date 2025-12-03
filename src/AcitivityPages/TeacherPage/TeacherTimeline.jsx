@@ -775,7 +775,7 @@ const seminerler = [
       sessions: [
         {
           number: 1,
-          title: "Yahudilikte Kudüs",
+          title: "Muallim Peygamberim",
           speaker: "Zekeriya Çelik",
           startDate: "29 Ocak 2026 Perşembe",
           endDate: "19.00",

@@ -588,7 +588,7 @@ const seminerler = [
   },
   {
     seminerNo: 16,
-    title: "Dr. Şule Şahin Ünlü",
+    title: "İslam Metafiziğinde Aile",
     speakers: [
       {
         name: "Dr. Şule Şahin Ünlü",

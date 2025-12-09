@@ -17,7 +17,7 @@ const HomeTeam = () => {
     {
       name: "Sinan Özyurt",
       title: "ÖNDER Genel Başk. Yard.",
-      image: "/images/sinanozyurt.png",
+      image: "/images/sinanözyurt.png",
       bio: "1977 yılında Erzurum’un Hınıs ilçesinde dünyaya geldi. İlk ve ortaöğrenimini memleketi olan Trabzon’un Araklı ilçesinde tamamladı. 1994 yılında Araklı İmam Hatip Lisesinden mezun oldu. Aynı yıl başladığı Marmara Üniversitesi İlahiyat Fakültesini 2000 yılında bitirdi. 1998 – 2002 yılları arasında farklı üniversitelerden arkadaşlarıyla birlikte “Yürüyüş” dergisini çıkardı. 28 Şubat sürecine şahitlik eden ve tavır koyan dergide yayınlanan başörtüsü yasağını eleştiren yazıları nedeniyle zamanın Türk Ceza Kanunun 312. maddesine istinaden 3 ayrı davadan yargılandı ve beraat etti. 2000 yılında başladığı ve ara vermek zorunda kaldığı İslam Mezhepleri Tarihi alanındaki yüksek lisansını 2010 yılında tamamladı. Aynı yıl halen yürütmekte olduğu öğretmenlik görevine başladı. Yazıları; Yürüyüş, Siyer-i Nebi, Cafcaf, CF, Genç Düşünce, Temmuz ve Hancı dergilerinde yayınlandı. Evli ve dört çocuk babasıdır.",
     },
     {

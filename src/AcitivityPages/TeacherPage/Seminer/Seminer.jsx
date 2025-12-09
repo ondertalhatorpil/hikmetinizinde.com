@@ -626,7 +626,7 @@ const Seminer = () => {
     },
     {
       seminerNo: 16,
-      title: "Dr. Şule Şahin Ünlü",
+      title: "İslam Metafiziğinde Aile",
       speakers: [
         {
           name: "Dr. Şule Şahin Ünlü",
@@ -975,34 +975,27 @@ const Seminer = () => {
           </p>
         </div>
 
-        <Masonry
+  <Masonry
           breakpointCols={breakpointColumns}
-          className="flex -ml-8 w-auto"
-          columnClassName="pl-8 bg-clip-padding space-y-8"
+          className="hi-masonry-grid"
+          columnClassName="hi-masonry-grid_column"
         >
-          {seminerler.map((seminer) => (
-            <div
-              id={`seminar-${seminer.seminerNo}`}
-              key={`${seminer.seminerNo}`}
-              className={`transition-all duration-700 ${
-                selectedSeminar === seminer.seminerNo
-                  ? "scale-105"
-                  : "scale-100"
-              }`}
+          {seminerler.map((seminer, index) => (
+            <div 
+              id={`seminar-${seminer.seminerNo}`} 
+              key={seminer.seminerNo + '-' + index}
+              className={`seminar-card-wrapper transition-all duration-700 
+                ${selectedSeminar === seminer.seminerNo ? 'scale-105' : ''}`}
             >
-              <div
-                className={`relative ${
-                  selectedSeminar === seminer.seminerNo
-                    ? "ring-4 ring-[#BDA473] rounded-lg shadow-2xl animate-pulse"
-                    : ""
-                }`}
+              <div className={`relative ${
+                selectedSeminar === seminer.seminerNo 
+                  ? 'ring-4 ring-[#D3BD92] rounded-lg shadow-2xl animate-highlight'
+                  : ''}`}
               >
                 {selectedSeminar === seminer.seminerNo && (
-                  <div
-                    className="absolute -top-4 left-1/2 transform -translate-x-1/2 
-                      bg-[#BDA473] text-white text-sm px-4 py-1 rounded-full 
-                      font-medium z-10 whitespace-nowrap animate-bounce"
-                  >
+                  <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 
+                    bg-[#D3BD92] text-black text-sm px-4 py-1 rounded-full 
+                    font-medium z-10 whitespace-nowrap animate-bounce">
                     Seçili Seminer
                   </div>
                 )}
@@ -1014,20 +1007,36 @@ const Seminer = () => {
       </div>
 
       <style jsx>{`
-        @media (max-width: 1200px) {
-          .masonry-grid {
-            margin-left: -24px;
+        .seminar-card-wrapper {
+          transition: all 0.5s ease-in-out;
+        }
+
+        .animate-highlight {
+          animation: highlight 2s ease-in-out infinite;
+        }
+
+        @keyframes highlight {
+          0% {
+            box-shadow: 0 0 0 0 rgba(211, 189, 146, 0.4);
           }
-          .masonry-grid_column {
-            padding-left: 24px;
+          70% {
+            box-shadow: 0 0 0 15px rgba(211, 189, 146, 0);
+          }
+          100% {
+            box-shadow: 0 0 0 0 rgba(211, 189, 146, 0);
           }
         }
-        @media (max-width: 768px) {
-          .masonry-grid {
-            margin-left: -16px;
+
+        .animate-bounce {
+          animation: bounce 1s ease-in-out infinite;
+        }
+
+        @keyframes bounce {
+          0%, 100% {
+            transform: translateY(-5px) translateX(-50%);
           }
-          .masonry-grid_column {
-            padding-left: 16px;
+          50% {
+            transform: translateY(0) translateX(-50%);
           }
         }
       `}</style>

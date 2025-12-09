@@ -285,7 +285,7 @@ const SeminarTimeline = () => {
                         
                         {/* Hover İpucu */}
                         <div className="absolute bottom-2 right-2 opacity-0 group-hover/card:opacity-100 transition-opacity text-[10px] text-[#BDA473]">
-                           Detay ↓
+                           Detay için tıkla ↓
                         </div>
                       </div>
                     </div>

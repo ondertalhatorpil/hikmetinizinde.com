@@ -18,7 +18,7 @@ const HomeTeam = () => {
       name: "Sinan ÖZYURT",
       title: "Proje Sorumlusu",
       image: "/images/sinanözyurt.png",
-      bio: "1977 yılında Erzurum’un Hınıs ilçesinde dünyaya geldi. İlk ve ortaöğrenimini memleketi olan Trabzon’un Araklı ilçesinde tamamladı. 1994 yılında Araklı İmam Hatip Lisesinden mezun oldu. Aynı yıl başladığı Marmara Üniversitesi İlahiyat Fakültesini 2000 yılında bitirdi. 1998 – 2002 yılları arasında farklı üniversitelerden arkadaşlarıyla birlikte “Yürüyüş” dergisini çıkardı. 28 Şubat sürecine şahitlik eden ve tavır koyan dergide yayınlanan başörtüsü yasağını eleştiren yazıları nedeniyle zamanın Türk Ceza Kanunun 312. maddesine istinaden 3 ayrı davadan yargılandı ve beraat etti. 2000 yılında başladığı ve ara vermek zorunda kaldığı İslam Mezhepleri Tarihi alanındaki yüksek lisansını 2010 yılında tamamladı. Aynı yıl halen yürütmekte olduğu öğretmenlik görevine başladı. Yazıları; Yürüyüş, Siyer-i Nebi, Cafcaf, CF, Genç Düşünce, Temmuz ve Hancı dergilerinde yayınlandı. Evli ve dört çocuk babasıdır.",
+      bio: "1976 yılında Erzurum’un Hınıs ilçesinde dünyaya geldi. İlk ve ortaöğrenimini memleketi olan Trabzon’un Araklı ilçesinde tamamladı. 1994 yılında Araklı İmam Hatip Lisesinden mezun oldu. Aynı yıl başladığı Marmara Üniversitesi İlahiyat Fakültesini 2000 yılında bitirdi. 1998 – 2002 yılları arasında farklı üniversitelerden arkadaşlarıyla birlikte “Yürüyüş” dergisini çıkardı. 28 Şubat sürecine şahitlik eden ve tavır koyan dergide yayınlanan başörtüsü yasağını eleştiren yazıları nedeniyle zamanın Türk Ceza Kanunun 312. maddesine istinaden 3 ayrı davadan 20’şer ay hapis cezası aldı. Hapse girmek yerine kayıt dışı yaşamayı seçti. AB uyum yasaları çerçevesindeTCK’da yapılan değişiklikten istifade ederek yeniden yargılanma talebinde bulundu. Üç davadan da yeniden yargılandı. İkisinden beraat etti, biri zaman aşımına uğradı. 2000 yılında başladığı ve ara vermek zorunda kaldığı İslam Mezhepleri Tarihi alanındaki yüksek lisansını 2010 yılında tamamladı. Aynı yıl halen yürütmekte olduğu öğretmenlik görevine başladı. Yazıları; Yürüyüş, Siyer-i Nebi, Cafcaf, CF, Genç Düşünce, Temmuz, Hancı, İnsicam ve Genç dergilerinde yayınlandı. Deneme türündeki Kalbini Koru ve Neyi Bekliyorsun? isimli eserleri Temmuz Kitap tarafından yayımlandı. Evli ve dört çocuk babasıdır.",
     },
     {
       name: "Muhammed Furkan TATLI ",
@@ -29,7 +29,7 @@ const HomeTeam = () => {
     {
       name: "Suzan ÖREN",
       title: "Proje Koordinatörü",
-      image: "/images/suzanoren.png",
+      image: "/images/Suzanören.png",
       bio: "Atatürk Üniversitesi Fen Edebiyat Fakültesi Türk Dili ve Edebiyatı bölümünü bitirdi. Çesitli STK'larda eğitim koordinatörlüğü yaptı. Farklı dergilerde kitap tanıtımı yazıları yazdı. Özel ,  kamu kurum ve kuruluşlarında görev aldı. Halen İstanbul' da bir İmam hatip lisesinde ögretmenlik yapmaktadır.",
     },
     {

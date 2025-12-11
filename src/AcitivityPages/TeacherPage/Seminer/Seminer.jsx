@@ -102,28 +102,28 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Niçin ses Temelli Kur'an öğretimi?",
+            title: "Niçin Ses Temelli Kur'an Öğretimi?",
             speaker: "Abdullah Açık",
             startDate: "22 Aralık 2025 Pazartesi",
             endDate: "21.00",
           },
           {
             number: 2,
-            title: "Ses temelli Kur'an/elifba öğretimi esasları ",
+            title: "Ses Temelli Kur'an/Elifba Öğretimi Esasları ",
             speaker: "Abdullah Açık",
             startDate: "29 Aralık 2025 Pazartesi",
             endDate: "21.00",
           },
           {
             number: 3,
-            title: "Ses Temelli Kur'an öğretimi ders işleyişi ",
+            title: "Ses Temelli Kur'an Öğretimi Ders İşleyişi ",
             speaker: "Abdullah Açık",
             startDate: "5 Ocak 2026 Pazartesi",
             endDate: "21.00",
           },
           {
             number: 4,
-            title: "Ses temelli yüzünden Kur'an okuma ve ezber eğitimi",
+            title: "Ses Temelli Yüzünden Kur'an Okuma ve Ezber Eğitimi",
             speaker: "Abdullah Açık",
             startDate: "12 Ocak 2026 Pazartesi",
             endDate: "21.00",
@@ -145,14 +145,14 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Afrika’da Neler Oluyor?",
+            title: "Afrika’da Neler Oluyor? - 1",
             speaker: "İbrahim Tığlı",
             startDate: "23 Aralık 2025 Salı",
             endDate: "19.00",
           },
           {
             number: 2,
-            title: "Afrika’da Neler Oluyor?",
+            title: "Afrika’da Neler Oluyor? - 2",
             speaker: "İbrahim Tığlı",
             startDate: "30 Aralık 2025 Salı",
             endDate: "19.00",
@@ -210,7 +210,7 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Siyonist edebiyat nasıl doğdu ve gelişti?",
+            title: "Siyonist Edebiyat Nasıl Doğdu ve Gelişti?",
             speaker: "Peren Birsaygılı Mut",
             startDate: "24 Aralık 2025 Çarşamba",
             endDate: "21.00",
@@ -218,7 +218,7 @@ const Seminer = () => {
           {
             number: 2,
             title:
-              "Siyonist edebiyatın ilk temsilcileri ve eserlerinden örnekler (1830-1917)",
+              "Siyonist Edebiyatın ilk Temsilcileri ve Eserlerinden Örnekler (1830-1917)",
             speaker: "Peren Birsaygılı Mut",
             startDate: "31 Aralık 2025 Çarşamba",
             endDate: "21.00",
@@ -226,14 +226,14 @@ const Seminer = () => {
           {
             number: 3,
             title:
-              "Balfour Deklarasyonu’ndan Nekbe’ye siyonist edebiyat (1917-1948)",
+              "Balfour Deklarasyonu’ndan Nekbe’ye Siyonist Edebiyat (1917-1948)",
             speaker: "Peren Birsaygılı Mut",
             startDate: "7 Ocak 2026 Çarşamba",
             endDate: "21.00",
           },
           {
             number: 4,
-            title: "Nekbe sonrası siyonist edebiyat (1948’ten günümüze) ",
+            title: "Nekbe Sonrası Siyonist Edebiyat (1948’den Günümüze) ",
             speaker: "Peren Birsaygılı Mut",
             startDate: "14 Ocak 2026 Çarşamba",
             endDate: "21.00",
@@ -284,14 +284,14 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "İnanç Problemleri",
+            title: "İnanç Problemleri - 1",
             speaker: "Prof. Dr. Soner Duman",
             startDate: "25 Aralık 2025 Perşembe",
             endDate: "21.00",
           },
           {
             number: 2,
-            title: "İnanç Problemleri",
+            title: "İnanç Problemler - 2",
             speaker: "Prof. Dr. Soner Duman",
             startDate: "1 Ocak 2026 Perşembe",
             endDate: "21.00",
@@ -304,17 +304,17 @@ const Seminer = () => {
       title: "Erken Çocukluk Döneminde Din ve Değerler Eğitimi",
       speakers: [
         {
-          name: "Dr. Sümeyra UZUN",
+          name: "Dr. Sümeyra Uzun",
           institution: "İstanbul İl Millî Eğitim Müdürlüğü, Okul Öncesi Eğitim",
           image: "images/Dr. Sümeyra Uzun.webp",
         },
         {
-          name: "Zeynep FİDAN DAL",
+          name: "Zeynep Fidan Dal",
           institution: "Öğretmen",
           image: "images/Zeynep Fidan Dal.png",
         },
         {
-          name: "Zeynep ÖZDEMİR",
+          name: "Zeynep Özdemir",
           institution: "Öğretmen, MEB Kitap Komisyonu",
           image: "images/Zeynep Özdemir.png",
         },
@@ -329,7 +329,7 @@ const Seminer = () => {
           {
             number: 1,
             title: "Erken Çocukluk Döneminde Dinî Gelişim ve Din Eğitimi",
-            speaker: "Dr. Sümeyra UZUN",
+            speaker: "Dr. Sümeyra Uzun",
             startDate: "26 Aralık 2025 Cuma",
             endDate: "21.00",
           },
@@ -337,21 +337,21 @@ const Seminer = () => {
             number: 2,
             title:
               "Erken Çocukluk Dönemi Din ve Değer Eğitiminde Düşünme Süreçlerini Etkinleştirmek",
-            speaker: "Zeynep FİDAN DAL",
+            speaker: "Zeynep Fidan Dal",
             startDate: "2 Ocak 2026 Cuma",
             endDate: "21.00",
           },
           {
             number: 3,
             title: "Erken Çocukluk Dönemi Din ve Değer Eğitiminde Oyun",
-            speaker: "Zeynep ÖZDEMİR",
+            speaker: "Zeynep Özdemir",
             startDate: "9 Ocak 2026 Cuma",
             endDate: "21.00",
           },
           {
             number: 4,
             title: "Erken Çocukluk Dönemi Din ve Değer Eğitiminde Masallar",
-            speaker: "Feyza Yadikar SARIOĞLU",
+            speaker: "Feyza Yadikar Sarıoğlu",
             startDate: "16 Ocak 2026 Cuma",
             endDate: "21.00",
           },
@@ -589,7 +589,7 @@ const Seminer = () => {
       title: "Eğitimde Dekolonizasyon: Multiplex Eğitim ",
       speakers: [
         {
-          name: "Prof. Dr. Recep Şentürk ",
+          name: "Prof. Dr. Recep Şentürk",
           institution:
             "Hamad Bin Khalifa Üniversitesi İslami İlimler Fakültesi Dekanı",
           image: "/images/recepsenturk.png",
@@ -600,7 +600,7 @@ const Seminer = () => {
           {
             number: 1,
             title:
-              "1. Kütür Sömürgeciliğinin ve Batılılaşmanın Aracı olarak Eğitim.",
+              "1. Kütür Sömürgeciliğinin ve Batılılaşmanın Aracı olarak Eğitim",
             speaker: "Prof. Dr. Recep Şentürk",
             startDate: "10 Ocak 2026 Pazartesi ",
             endDate: "19.00",
@@ -608,7 +608,7 @@ const Seminer = () => {
           {
             number: 2,
             title:
-              "Dekolonizasyon: Kültür Sömürgeciliğinden Kurtulmak ve Fikri Bağımızlık. ",
+              "Dekolonizasyon: Kültür Sömürgeciliğinden Kurtulmak ve Fikri Bağımızlık",
             speaker: "Prof. Dr. Recep Şentürk",
             startDate: "26 Ocak 2026 Pazartesi ",
             endDate: "19.00",
@@ -741,14 +741,14 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Arka plan ve Bilimin İşlevi Yeni Toplum",
+            title: "Arka Plan ve Bilimin İşlevi Yeni Toplum",
             speaker: "Doç. Dr. Fatih Kucur",
             startDate: "23 Ocak 2026 Cuma",
             endDate: "21.00",
           },
           {
             number: 2,
-            title: "21. Yüzyılda Dünya; insan ve Toplum",
+            title: "21. Yüzyılda Dünya; İnsan ve Toplum",
             speaker: "Doç. Dr. Fatih Kucur",
             startDate: "30 Ocak 2026 Cuma",
             endDate: "21.00",
@@ -857,7 +857,7 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Oturum: Medeniyet Mirasımızı Bugünden Okumak-Oluşum Süreci",
+            title: "Medeniyet Mirasımızı Bugünden Okumak-Oluşum Süreci",
             speaker: "Doç. Dr. Vahdettin Işık ",
             startDate: "30 Ocak 2026 Cuma",
             endDate: "19.00",
@@ -865,7 +865,7 @@ const Seminer = () => {
           {
             number: 2,
             title:
-              "Oturum: Medeniyet Mirasımızı Bugünden Okumak-İktidar Dönemi",
+              "Medeniyet Mirasımızı Bugünden Okumak-İktidar Dönemi",
             speaker: "Doç. Dr. Vahdettin Işık ",
             startDate: "6 Şuabt 2026 Cuma",
             endDate: "19.00",
@@ -873,7 +873,7 @@ const Seminer = () => {
           {
             number: 3,
             title:
-              "Oturum: Medeniyet Mirasımızı Bugünden Okumak-Yenilgi ve Arayış Dönemi",
+              "Medeniyet Mirasımızı Bugünden Okumak-Yenilgi ve Arayış Dönemi",
             speaker: "Doç. Dr. Vahdettin Işık ",
             startDate: "13 Şubat 2026 Cuma",
             endDate: "19.00",
@@ -902,7 +902,7 @@ const Seminer = () => {
           },
           {
             number: 2,
-            title: "Yönetim Sanatının İncelikl",
+            title: "Yönetim Sanatının İncelikleri",
             speaker: "Hasan Kocaboğa",
             startDate: "7 Şubat 2026 Cumartesi",
             endDate: "19.00",
@@ -934,7 +934,7 @@ const Seminer = () => {
     },
     {
       seminerNo: 25,
-      title: "Aile olmak, takım oyunu oynamak gibidir",
+      title: "Aile olmak, Takım Oyunu Oynamak Gibidir",
       speakers: [
         {
           name: "Saliha Erdim",
@@ -953,7 +953,7 @@ const Seminer = () => {
           },
           {
             number: 2,
-            title: "Ailede çözüm odaklı iş birliği modeli",
+            title: "Ailede Çözüm Odaklı İş Birliği Modeli",
             speaker: "Saliha Erdim",
             startDate: "12 Şubat 2026 Perşembe",
             endDate: "19.00",
@@ -964,7 +964,7 @@ const Seminer = () => {
   ];
 
   return (
-    <div className="min-h-screen py-20 md:py-24">
+    <div className="min-h-screen py-0 md:py-24">
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 md:px-8">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-4 bg-gradient-to-r from-[#BDA473] to-[#BDA473] bg-clip-text text-transparent">

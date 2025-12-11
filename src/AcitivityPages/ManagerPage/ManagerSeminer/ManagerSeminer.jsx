@@ -93,7 +93,7 @@ const Seminer = () => {
         sessions: [
           {
             number: 1,
-            title: "Okul iklimi ve kurum kültürü",
+            title: "Okul İklimi ve Kurum Kültürü",
             speaker: "Eyyup Demir",
             startDate: "31 Aralık 2025 Çarşamba",
             endDate: "19.00"
@@ -196,7 +196,7 @@ const Seminer = () => {
         speakers: [
           {
             name: "Dr. Muhammed Çelik",
-            institution: "İstanbul Eğitim Dergisi Başeditörü",
+            institution: "İstanbul Eğitim Dergisi Baş Editörü",
             image: 'images/muhammedçelik.png'
           }
         ],
